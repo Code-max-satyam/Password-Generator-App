@@ -31,6 +31,10 @@ Includes copy-to-clipboard functionality and sleek toast notifications. 🚀
 
 📦 react-icons for UI icons
 
+ ## Live Demo
+
+ https://password-generator-app-xi-ten.vercel.app/
+
 🚀 Getting Started
 1. Clone the repo
 git clone https://github.com/Code-max-satyam/password-generator-app.git
